@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "gulp-concat": "^2.4.2",
+    "gulp": "^3.8.10",
+    "react": "^0.12.1",
+    "reactify": "^0.17.1",
+    "gulp-browserify": "^0.5.0",
+    "flux": "^2.0.1",
+    "lodash": "^2.4.1",
+    "vinyl-transform": "^1.0.0",
+    "browserify": "^6.3.3"
+  }
+}
+
